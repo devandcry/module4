@@ -8070,3 +8070,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.04-17.57.47:819][ 76]AssetCheck: New page: Asset Save: multiple assets
 [2020.04.04-17.57.47:819][ 76]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
 [2020.04.04-17.57.47:819][ 76]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2020.04.04-17.59.39:638][529]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{077eefc0-a0f4-44bb-a887-8374d2ef2d03}.
+[2020.04.04-17.59.39:638][529]LogTemp: Resetting audio stream to device id 
+[2020.04.04-17.59.39:691][529]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.04-17.59.39:691][529]LogAudioMixer: Display: Name: Speakers (Logitech G430 Gaming Headset)
+[2020.04.04-17.59.39:691][529]LogAudioMixer: Display: Is Default: Yes
+[2020.04.04-17.59.39:691][529]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.04-17.59.39:691][529]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.04-17.59.39:691][529]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.04-17.59.39:691][529]LogAudioMixer: Display: Channel Order:
+[2020.04.04-17.59.39:691][529]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.04-17.59.39:691][529]LogAudioMixer: Display: 1: FrontRight
