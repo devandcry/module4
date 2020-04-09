@@ -1,0 +1,1311 @@
+﻿Log file open, 04/09/20 10:52:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FrogDev
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.178124
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU:         Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Progs/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.09-07.52.38:171][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.09-07.52.38:171][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.09-07.52.38:171][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Engine.ini]
+[2020.04.09-07.52.38:171][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.09-07.52.38:171][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2020.04.09-07.52.38:171][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.04.09-07.52.38:171][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.04.09-07.52.38:171][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.04.09-07.52.38:171][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.04.09-07.52.38:171][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.04.09-07.52.38:171][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.04.09-07.52.38:171][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.04.09-07.52.38:171][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.04.09-07.52.38:171][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.04.09-07.52.38:171][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.04.09-07.52.38:171][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.04.09-07.52.38:171][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.04.09-07.52.38:171][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.04.09-07.52.38:172][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.04.09-07.52.38:173][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2020.04.09-07.52.38:174][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Engine.ini]
+[2020.04.09-07.52.38:175][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Engine.ini]
+[2020.04.09-07.52.38:175][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.09-07.52.38:175][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.09-07.52.38:175][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.09-07.52.38:175][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.09-07.52.38:175][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.09-07.52.38:175][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.09-07.52.38:175][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.09-07.52.38:175][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.09-07.52.38:175][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.09-07.52.38:175][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.09-07.52.38:175][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.09-07.52.38:175][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.09-07.52.38:175][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.09-07.52.38:175][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.09-07.52.38:175][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Engine.ini]
+[2020.04.09-07.52.38:175][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.09-07.52.38:175][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.09-07.52.38:175][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.09-07.52.38:175][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.09-07.52.38:176][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.09-07.52.38:176][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.09-07.52.38:176][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.09-07.52.38:176][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.09-07.52.38:176][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.09-07.52.38:176][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.09-07.52.38:176][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.09-07.52.38:176][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.09-07.52.38:176][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.09-07.52.38:176][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Engine.ini]
+[2020.04.09-07.52.38:176][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Engine.ini]
+[2020.04.09-07.52.38:180][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.09-07.52.38:180][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.09-07.52.38:181][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.09-07.52.38:182][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-07.52.38:183][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.09-07.52.38:183][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.09-07.52.38:183][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.09-07.52.38:183][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.09-07.52.38:183][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.09-07.52.38:187][  0]LogHAL: Display: Platform has ~ 8 GB [8528601088 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.09-07.52.38:187][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.09-07.52.38:187][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.09-07.52.38:188][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.09-07.52.38:189][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.09-07.52.38:190][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.09-07.52.38:191][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.09-07.52.38:191][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.09-07.52.38:191][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-07.52.38:191][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.09-07.52.38:191][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.09-07.52.38:191][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-07.52.38:191][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.09-07.52.38:191][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.09-07.52.38:191][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.09-07.52.38:191][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.09-07.52.38:191][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.09-07.52.38:191][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.09-07.52.38:191][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Engine.ini]
+[2020.04.09-07.52.38:192][  0]LogInit: Computer: DESKTOP-SPAGJFU
+[2020.04.09-07.52.38:192][  0]LogInit: User: andre
+[2020.04.09-07.52.38:192][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.09-07.52.38:192][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.09-07.52.38:192][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.04.09-07.52.38:192][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.09-07.52.38:192][  0]LogMemory: Process Physical Memory: 105.48 MB used, 105.48 MB peak
+[2020.04.09-07.52.38:192][  0]LogMemory: Process Virtual Memory: 100.59 MB used, 100.59 MB peak
+[2020.04.09-07.52.38:192][  0]LogMemory: Physical Memory: 6134.27 MB used,  1999.24 MB free, 8133.51 MB total
+[2020.04.09-07.52.38:192][  0]LogMemory: Virtual Memory: 5137.62 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.04.09-07.52.38:196][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.09-07.52.38:223][  0]LogInit: Using OS detected language (en-US).
+[2020.04.09-07.52.38:223][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.09-07.52.38:224][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.09-07.52.38:579][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.09-07.52.38:679][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.09-07.52.38:679][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.09-07.52.38:925][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.09-07.52.38:925][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.09-07.52.38:925][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.09-07.52.38:925][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.09-07.52.39:052][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2020.04.09-07.52.39:052][  0]LogD3D11RHI:       4053/0/4066 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.09-07.52.39:056][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.09-07.52.39:057][  0]LogD3D11RHI:       0/0/4066 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.09-07.52.39:057][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.09-07.52.39:069][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.09-07.52.39:070][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.09-07.52.39:070][  0]LogWindows: EnumDisplayDevices:
+[2020.04.09-07.52.39:070][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2020.04.09-07.52.39:071][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2020.04.09-07.52.39:071][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2020.04.09-07.52.39:072][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2020.04.09-07.52.39:072][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.09-07.52.39:072][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2020.04.09-07.52.39:072][  0]LogD3D11RHI:   Driver Version: 445.75 (internal:26.21.14.4575, unified:445.75)
+[2020.04.09-07.52.39:072][  0]LogD3D11RHI:      Driver Date: 3-17-2020
+[2020.04.09-07.52.39:072][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2020.04.09-07.52.39:165][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.09-07.52.39:165][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.09-07.52.39:200][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.09-07.52.39:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.09-07.52.39:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.09-07.52.39:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.09-07.52.39:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.09-07.52.39:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.09-07.52.39:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.09-07.52.39:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.09-07.52.39:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.09-07.52.39:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.09-07.52.39:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.09-07.52.39:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.09-07.52.39:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.09-07.52.39:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.09-07.52.39:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.09-07.52.39:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.09-07.52.39:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.09-07.52.39:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.09-07.52.39:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.09-07.52.39:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.09-07.52.39:997][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.09-07.52.39:997][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.09-07.52.40:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.09-07.52.40:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.09-07.52.40:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.09-07.52.40:052][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.09-07.52.40:066][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.09-07.52.40:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.09-07.52.40:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.09-07.52.40:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.09-07.52.40:158][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.09-07.52.40:158][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.09-07.52.40:172][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.09-07.52.40:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.09-07.52.40:200][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.09-07.52.40:213][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.09-07.52.40:213][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.09-07.52.40:216][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.09-07.52.40:249][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../GitHub/4Module/module4/Unreal/FrogDev/Intermediate/Shaders/WorkingDirectory/2396/).
+[2020.04.09-07.52.40:249][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/andre/AppData/Local/Temp/UnrealShaderWorkingDir/B7A916024DA6FC6B01083C87435F7A97/'.
+[2020.04.09-07.52.40:249][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.09-07.52.40:250][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.09-07.52.40:250][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.09-07.52.41:744][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.09-07.52.41:861][  0]LogDerivedDataCache: Loaded boot cache 0.12s 78MB C:/Users/andre/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.09-07.52.41:862][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/andre/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.09-07.52.41:862][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub/4Module/module4/Unreal/FrogDev/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.09-07.52.41:862][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.09-07.52.41:862][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub/4Module/module4/Unreal/FrogDev/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.09-07.52.41:862][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.09-07.52.41:878][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.09-07.52.41:878][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.09-07.52.41:878][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.09-07.52.41:881][  0]LogDerivedDataCache: Using Local data cache path C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.09-07.52.41:881][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.09-07.52.41:881][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.09-07.52.42:015][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.09-07.52.42:020][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.09-07.52.42:020][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.09-07.52.42:110][  0]LogAssetRegistry: FAssetRegistry took 0.0058 seconds to start up
+[2020.04.09-07.52.42:829][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.09-07.52.44:240][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.09-07.52.44:240][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.09-07.52.44:240][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.09-07.52.44:240][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.09-07.52.44:240][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.09-07.52.44:904][  0]LogNetVersion: FrogDev 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3351283168)
+[2020.04.09-07.52.59:999][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.196214 seconds
+[2020.04.09-07.53.00:038][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.09-07.53.00:039][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.09-07.53.00:039][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.09-07.53.06:770][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.09-07.53.06:828][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.09-07.53.08:001][  0]SourceControl: Source control is disabled
+[2020.04.09-07.53.08:010][  0]SourceControl: Source control is disabled
+[2020.04.09-07.53.08:096][  0]SourceControl: Source control is disabled
+[2020.04.09-07.53.08:155][  0]SourceControl: Source control is disabled
+[2020.04.09-07.53.08:221][  0]SourceControl: Source control is disabled
+[2020.04.09-07.53.10:399][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.09-07.53.10:747][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.09-07.53.10:747][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.09-07.53.11:546][  0]LogOcInput: OculusInput pre-init called
+[2020.04.09-07.53.11:688][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.09-07.53.11:688][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.09-07.53.13:339][  0]LogEngine: Initializing Engine...
+[2020.04.09-07.53.13:371][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.09-07.53.13:537][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.042 s
+[2020.04.09-07.53.14:544][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.09-07.53.15:250][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.09-07.53.15:495][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.09-07.53.15:495][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.09-07.53.15:495][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.09-07.53.15:495][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.09-07.53.15:495][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.09-07.53.15:495][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.09-07.53.15:495][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.09-07.53.15:510][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.09-07.53.15:512][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.09-07.53.15:513][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.09-07.53.15:587][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.09-07.53.15:588][  0]LogAudioMixer: Display: Name: Speakers (Logitech G430 Gaming Headset)
+[2020.04.09-07.53.15:588][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.09-07.53.15:588][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.09-07.53.15:588][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.09-07.53.15:588][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.09-07.53.15:588][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.09-07.53.15:588][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.09-07.53.15:588][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.09-07.53.15:630][  0]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G430 Gaming Headset)
+[2020.04.09-07.53.15:664][  0]LogInit: FAudioDevice initialized.
+[2020.04.09-07.53.15:665][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.09-07.53.15:861][  0]LogDerivedDataCache: Saved boot cache 0.20s 78MB C:/Users/andre/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.09-07.53.15:871][  0]LogInit: Texture streaming: Enabled
+[2020.04.09-07.53.16:543][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.09-07.53.16:543][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.09-07.53.16:555][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.09-07.53.17:062][  0]LogInit: Transaction tracking system initialized
+[2020.04.09-07.53.17:829][  0]BlueprintLog: New page: Editor Load
+[2020.04.09-07.53.19:464][  0]LocalizationService: Localization service is disabled
+[2020.04.09-07.53.23:727][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/4Module/module4/Unreal/FrogDev/Content/' took 0.05s
+[2020.04.09-07.53.23:727][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.09-07.53.23:727][  0]LogCook: Display: Mobile HDR setting 0
+[2020.04.09-07.53.27:988][  0]SourceControl: Source control is disabled
+[2020.04.09-07.53.28:039][  0]Cmd: MAP LOAD FILE="../../../../../GitHub/4Module/module4/Unreal/FrogDev/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.09-07.53.28:073][  0]LightingResults: New page: Lighting Build
+[2020.04.09-07.53.28:249][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.09-07.53.28:312][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.09-07.53.28:356][  0]MapCheck: New page: Map Check
+[2020.04.09-07.53.28:356][  0]LightingResults: New page: Lighting Build
+[2020.04.09-07.53.28:818][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2020.04.09-07.53.30:999][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.04.09-07.53.31:805][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.09-07.53.32:669][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.04.09-07.53.32:672][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.09-07.53.32:690][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.48ms to complete.
+[2020.04.09-07.53.32:690][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 4.678
+[2020.04.09-07.53.38:149][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.09-07.53.38:186][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.09-07.53.38:206][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.09-07.53.38:224][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.09-07.53.38:371][  0]LogCollectionManager: Loaded 0 collections in 0.001203 seconds
+[2020.04.09-07.53.38:507][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Collections/' took 0.00s
+[2020.04.09-07.53.38:507][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/4Module/module4/Unreal/FrogDev/Content/Developers/andre/Collections/' took 0.00s
+[2020.04.09-07.53.38:507][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/4Module/module4/Unreal/FrogDev/Content/Collections/' took 0.00s
+[2020.04.09-07.53.38:507][  0]LogContentBrowser: Native class hierarchy populated in 0.0207 seconds. Added 3015 classes and 717 folders.
+[2020.04.09-07.53.38:637][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.04.09-07.53.40:869][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.09-07.53.41:301][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2020.04.09-07.53.43:124][  0]LogSlate: Took 0.036557 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.09-07.53.45:080][  0]LogSlate: Took 0.029470 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.09-07.53.45:245][  0]LogSlate: Took 0.037447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.09-07.53.46:354][  0]LogRenderer: Reallocating scene render targets to support 1216x600 Format 10 NumSamples 1 (Frame:1).
+[2020.04.09-07.53.48:242][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.04.09-07.53.48:242][  0]LogLoad: (Engine Initialization) Total time: 72.20 seconds
+[2020.04.09-07.53.48:242][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.09-07.53.49:501][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.09-07.53.50:024][  0]LogSlate: Took 0.024295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.09-07.53.59:247][ 24]LogAssetRegistry: Asset discovery search completed in 77.1390 seconds
+[2020.04.09-07.53.59:297][ 24]LogCollectionManager: Fixed up redirectors for 0 collections in 0.012376 seconds (updated 0 objects)
+[2020.04.09-07.54.28:549][795]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background_Sprite)
+[2020.04.09-07.54.29:413][795]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background_Sprite)
+[2020.04.09-07.54.29:606][795]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.04.09-07.54.34:983][799]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background_Sprite)
+[2020.04.09-07.54.40:023][ 83]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background_Sprite)
+[2020.04.09-07.54.42:030][185]LogSlate: Took 0.029229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.09-07.54.59:259][996]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_42)
+[2020.04.09-07.55.00:251][ 35]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.09-07.55.02:726][161]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background_Sprite)
+[2020.04.09-07.55.05:625][307]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background_Sprite)
+[2020.04.09-07.55.18:725][802]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.09-07.55.18:761][802]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/DeliveryGuy.DeliveryGuy
+[2020.04.09-07.55.19:688][802]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 121 classes and 0 folders.
+[2020.04.09-07.55.24:705][802]LogSlate: Took 0.029033 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.09-07.59.42:015][733]BlueprintLog: New page: Compile DeliveryGuy
+[2020.04.09-07.59.43:532][733]LogUObjectHash: Compacting FUObjectHashTables data took   8.27ms
+[2020.04.09-07.59.46:327][835]LogSlate: Window 'DeliveryGuy' being destroyed
+[2020.04.09-07.59.47:770][907]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.09-07.59.47:877][907]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.04.09-07.59.47:953][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.09-07.59.48:018][907]PIE: New page: PIE session: 2DSideScrollerExampleMap (Apr 9, 2020, 1:59:47 PM)
+[2020.04.09-07.59.48:143][907]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.09-07.59.48:151][907]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.04.09-07.59.48:189][907]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.04.09-07.59.48:271][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081886s)
+[2020.04.09-07.59.48:322][907]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.04.09-07.59.48:331][907]LogPlayLevel: PIE: World Init took: (0.032488s)
+[2020.04.09-07.59.48:332][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.142429s)
+[2020.04.09-07.59.48:376][907]LogUObjectHash: Compacting FUObjectHashTables data took   7.15ms
+[2020.04.09-07.59.48:393][907]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.09-07.59.48:393][907]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.09-07.59.48:393][907]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.09-07.59.48:393][907]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.09-07.59.48:393][907]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.09-07.59.48:393][907]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.09-07.59.48:393][907]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.09-07.59.48:393][907]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.09-07.59.48:394][907]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.09-07.59.48:394][907]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.09-07.59.48:433][907]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.09-07.59.48:433][907]LogAudioMixer: Display: Name: Speakers (Logitech G430 Gaming Headset)
+[2020.04.09-07.59.48:433][907]LogAudioMixer: Display: Is Default: Yes
+[2020.04.09-07.59.48:433][907]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.09-07.59.48:433][907]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.09-07.59.48:433][907]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.09-07.59.48:433][907]LogAudioMixer: Display: Channel Order:
+[2020.04.09-07.59.48:433][907]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.09-07.59.48:433][907]LogAudioMixer: Display: 1: FrontRight
+[2020.04.09-07.59.48:477][907]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G430 Gaming Headset)
+[2020.04.09-07.59.48:489][907]LogInit: FAudioDevice initialized.
+[2020.04.09-07.59.48:611][907]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.04.09-07.59.48:750][907]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.04.09-10.59.48
+[2020.04.09-07.59.48:829][907]LogWorld: Bringing up level for play took: 0.081570
+[2020.04.09-07.59.48:830][907]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.04.09-07.59.49:074][907]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.04.09-07.59.49:236][907]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 1.098
+[2020.04.09-07.59.49:236][907]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.04.09-07.59.49:342][907]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.50:382][908]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.50:446][909]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.50:512][910]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.50:536][911]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.50:568][912]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.50:600][913]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.50:648][914]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.50:704][915]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.50:739][916]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.50:759][917]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.50:779][918]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.50:796][919]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.50:818][920]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.50:836][921]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.50:856][922]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.50:875][923]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.50:895][924]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.50:915][925]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.50:938][926]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.50:961][927]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:003][928]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:020][929]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:043][930]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:096][931]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:115][932]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:254][933]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:274][934]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:294][935]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:313][936]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:333][937]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:352][938]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:372][939]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:392][940]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:413][941]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:435][942]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:457][943]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:475][944]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:495][945]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:512][946]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:530][947]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:549][948]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:566][949]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:585][950]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:601][951]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:617][952]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:634][953]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:649][954]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:669][955]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:686][956]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:701][957]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:718][958]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:735][959]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:756][960]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:774][961]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:794][962]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:811][963]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:832][964]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:850][965]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:868][966]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:886][967]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:905][968]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:922][969]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:938][970]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:957][971]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:974][972]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.51:990][973]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:007][974]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:023][975]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:040][976]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:059][977]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:076][978]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:092][979]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:108][980]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:124][981]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:140][982]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:157][983]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:175][984]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:191][985]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:210][986]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:227][987]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:245][988]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:264][989]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:284][990]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:302][991]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:320][992]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:337][993]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:354][994]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:371][995]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:387][996]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:403][997]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:420][998]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:438][999]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:456][  0]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:476][  1]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:493][  2]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:510][  3]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:526][  4]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:541][  5]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:557][  6]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:574][  7]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:592][  8]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:610][  9]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:628][ 10]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:644][ 11]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:661][ 12]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:679][ 13]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:695][ 14]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:713][ 15]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:730][ 16]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:764][ 17]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:781][ 18]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:799][ 19]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:817][ 20]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:835][ 21]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:853][ 22]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:871][ 23]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:891][ 24]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:910][ 25]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:929][ 26]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:947][ 27]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:964][ 28]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.52:984][ 29]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:004][ 30]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:022][ 31]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:040][ 32]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:059][ 33]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:078][ 34]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:097][ 35]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:113][ 36]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:131][ 37]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:148][ 38]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:166][ 39]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:183][ 40]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:203][ 41]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:221][ 42]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:238][ 43]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:255][ 44]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:273][ 45]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:290][ 46]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:307][ 47]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:325][ 48]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:341][ 49]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:357][ 50]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:373][ 51]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:390][ 52]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:407][ 53]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:424][ 54]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:442][ 55]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:459][ 56]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:476][ 57]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:493][ 58]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:512][ 59]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:533][ 60]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:549][ 61]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:565][ 62]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:584][ 63]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:603][ 64]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:620][ 65]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:642][ 66]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:658][ 67]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:674][ 68]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:690][ 69]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:707][ 70]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:723][ 71]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:750][ 72]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:769][ 73]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:787][ 74]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:805][ 75]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:823][ 76]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:839][ 77]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:864][ 78]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:881][ 79]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:898][ 80]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:914][ 81]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:932][ 82]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:948][ 83]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:971][ 84]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.53:987][ 85]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:004][ 86]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:021][ 87]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:037][ 88]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:053][ 89]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:075][ 90]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:091][ 91]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:110][ 92]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:127][ 93]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:143][ 94]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:162][ 95]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:180][ 96]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:199][ 97]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:216][ 98]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:233][ 99]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:251][100]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:273][101]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:290][102]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:305][103]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:322][104]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:337][105]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:352][106]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:367][107]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:384][108]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:402][109]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:418][110]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:434][111]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:452][112]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:468][113]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:483][114]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:499][115]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:515][116]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:531][117]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:547][118]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:563][119]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:586][120]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:601][121]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:617][122]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:635][123]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:652][124]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:669][125]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:688][126]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:705][127]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:721][128]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:738][129]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:755][130]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:771][131]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:788][132]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:804][133]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:820][134]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:838][135]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:869][136]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:884][137]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:899][138]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:915][139]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:933][140]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:950][141]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:969][142]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.54:989][143]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:006][144]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:024][145]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:042][146]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:059][147]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:078][148]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:098][149]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:114][150]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:130][151]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:148][152]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:164][153]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:180][154]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:198][155]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:215][156]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:231][157]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:247][158]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:262][159]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:279][160]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:294][161]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:312][162]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:329][163]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:346][164]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:361][165]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:377][166]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:392][167]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:415][168]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:431][169]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:446][170]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:462][171]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:479][172]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:497][173]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:519][174]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:535][175]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:565][176]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:618][177]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:647][178]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:689][179]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:772][180]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:790][181]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:807][182]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:825][183]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:846][184]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:879][185]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:899][186]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:915][187]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:933][188]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:950][189]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:969][190]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.55:987][191]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:003][192]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:020][193]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:035][194]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:052][195]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:071][196]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:088][197]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:105][198]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:122][199]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:144][200]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:161][201]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:177][202]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:193][203]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:209][204]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:225][205]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:245][206]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:260][207]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:277][208]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:294][209]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:330][210]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:346][211]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:363][212]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:380][213]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:397][214]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:416][215]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:432][216]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:448][217]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:464][218]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:481][219]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:499][220]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:518][221]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:537][222]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:559][223]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:594][224]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:618][225]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:646][226]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:664][227]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:682][228]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:700][229]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:719][230]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:737][231]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:754][232]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:773][233]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:792][234]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:813][235]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:831][236]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:850][237]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:871][238]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:888][239]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:906][240]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:922][241]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:937][242]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:954][243]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:975][244]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.56:992][245]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:007][246]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:047][247]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:062][248]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:078][249]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:093][250]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:109][251]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:125][252]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:141][253]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:158][254]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:174][255]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:190][256]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:206][257]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:249][258]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:266][259]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:310][260]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:326][261]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:341][262]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:366][263]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:410][264]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:468][265]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:484][266]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:540][267]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:563][268]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:579][269]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:617][270]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:634][271]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:649][272]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:669][273]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:694][274]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:748][275]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:787][276]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:870][277]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.57:937][278]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.58:005][279]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.58:040][280]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.58:074][281]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.58:116][282]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.58:162][283]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.58:177][284]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.58:233][285]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.58:250][286]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.58:302][287]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.58:337][288]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.58:354][289]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.58:370][290]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.58:386][291]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.58:401][292]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.58:449][293]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.58:470][294]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.58:486][295]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.58:508][296]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.58:553][297]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.58:604][298]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-07.59.58:645][298]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.09-07.59.58:645][298]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.09-07.59.58:715][298]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.04.09-07.59.58:729][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.09-07.59.58:729][298]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.04.09-07.59.58:786][298]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.09-07.59.58:828][298]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.09-07.59.58:848][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.09-07.59.58:861][298]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.09-07.59.58:861][298]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.04.09-07.59.58:883][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.09-07.59.59:045][298]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.09-07.59.59:078][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.09-07.59.59:227][298]LogUObjectHash: Compacting FUObjectHashTables data took   8.05ms
+[2020.04.09-07.59.59:280][299]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.04.09-08.00.08:777][951]LogEditorTransaction: Undo Delete current selection
+[2020.04.09-08.00.44:498][996]BlueprintLog: New page: Compile DeliveryGuy
+[2020.04.09-08.00.45:311][996]LogUObjectHash: Compacting FUObjectHashTables data took   8.63ms
+[2020.04.09-08.00.47:234][140]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.09-08.00.47:280][140]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.04.09-08.00.47:280][140]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.09-08.00.47:280][140]PIE: New page: PIE session: 2DSideScrollerExampleMap (Apr 9, 2020, 2:00:47 PM)
+[2020.04.09-08.00.47:280][140]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.04.09-08.00.47:291][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010648s)
+[2020.04.09-08.00.47:293][140]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.04.09-08.00.47:293][140]LogPlayLevel: PIE: World Init took: (0.001977s)
+[2020.04.09-08.00.47:293][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.012866s)
+[2020.04.09-08.00.47:349][140]LogUObjectHash: Compacting FUObjectHashTables data took   8.82ms
+[2020.04.09-08.00.47:349][140]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.09-08.00.47:349][140]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.09-08.00.47:349][140]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.09-08.00.47:349][140]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.09-08.00.47:349][140]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.09-08.00.47:349][140]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.09-08.00.47:349][140]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.09-08.00.47:350][140]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.09-08.00.47:351][140]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.09-08.00.47:351][140]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.09-08.00.47:393][140]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.09-08.00.47:393][140]LogAudioMixer: Display: Name: Speakers (Logitech G430 Gaming Headset)
+[2020.04.09-08.00.47:393][140]LogAudioMixer: Display: Is Default: Yes
+[2020.04.09-08.00.47:393][140]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.09-08.00.47:393][140]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.09-08.00.47:393][140]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.09-08.00.47:393][140]LogAudioMixer: Display: Channel Order:
+[2020.04.09-08.00.47:393][140]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.09-08.00.47:393][140]LogAudioMixer: Display: 1: FrontRight
+[2020.04.09-08.00.47:417][140]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G430 Gaming Headset)
+[2020.04.09-08.00.47:420][140]LogInit: FAudioDevice initialized.
+[2020.04.09-08.00.47:475][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.09-08.00.47:502][140]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.04.09-08.00.47:506][140]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.04.09-11.00.47
+[2020.04.09-08.00.47:506][140]LogWorld: Bringing up level for play took: 0.003035
+[2020.04.09-08.00.47:506][140]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.04.09-08.00.47:514][140]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.624
+[2020.04.09-08.00.47:521][140]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.04.09-08.00.47:522][140]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.47:558][141]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.04.09-08.00.47:571][141]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.47:589][142]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.47:608][143]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.47:690][144]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.47:710][145]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.47:739][146]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.47:763][147]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.47:839][148]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.47:854][149]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.47:962][150]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:027][151]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:060][152]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:115][153]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:130][154]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:200][155]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:249][156]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:280][157]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:325][158]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:339][159]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:354][160]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:387][161]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:414][162]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:449][163]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:519][164]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:561][165]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:598][166]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:614][167]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:629][168]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:707][169]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:768][170]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:804][171]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:845][172]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:860][173]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:900][174]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:968][175]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:982][176]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.48:998][177]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.49:013][178]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.49:047][179]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.49:066][180]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.49:118][181]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.49:133][182]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.49:148][183]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.49:163][184]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.49:179][185]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.49:194][186]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.49:210][187]LogBlueprintUserMessages: [Camera_8] 489.0 and 489.0
+[2020.04.09-08.00.49:212][187]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.09-08.00.49:212][187]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.09-08.00.49:212][187]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.04.09-08.00.49:213][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.09-08.00.49:213][187]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.04.09-08.00.49:247][187]LogSlate: Window 'FrogDev Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.09-08.00.49:281][187]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.09-08.00.49:281][187]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.09-08.00.49:282][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.09-08.00.49:294][187]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.09-08.00.49:295][187]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.04.09-08.00.49:306][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.09-08.00.49:348][187]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.09-08.00.49:362][187]LogUObjectHash: Compacting FUObjectHashTables data took   6.63ms
+[2020.04.09-08.00.49:387][188]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.04.09-08.00.52:002][357]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/Camera.Camera
+[2020.04.09-08.01.00:007][685]LogUObjectArray: Warning: Other object in slot
+[2020.04.09-08.01.00:033][685]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.09-08.01.02:147][685]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.062 s
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: 
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1165]
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: Stack: 
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ffb67e67b69 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ffb6767678a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ffb6768409f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ffb639ec5b1 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ffb62d4977a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ffb62d01647 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ffbb2efb144 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ffbb30edc63 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ffbb2f460b3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ffbb2f246f9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ffbb2f18ce2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ffbcc434ae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ffbcc42242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ffbcc437195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ffbcc41ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ffbdfd25c0d USER32.dll!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ffbdfd25602 USER32.dll!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ffbcc438699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ff6f1d96db0 UE4Editor.exe!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ff6f1dac3ec UE4Editor.exe!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ff6f1dac4ca UE4Editor.exe!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ff6f1dbceae UE4Editor.exe!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ff6f1dbfcbe UE4Editor.exe!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ffbdfec7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: [Callstack] 0x00007ffbe1ccced1 ntdll.dll!UnknownFunction []
+[2020.04.09-08.01.02:147][685]LogOutputDevice: Error: 
+[2020.04.09-08.01.02:182][685]LogStats:                SubmitErrorReport -  0.000 s
