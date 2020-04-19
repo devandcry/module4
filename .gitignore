@@ -73,7 +73,7 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-FrogDev/Saved
+FrogDev/Saved/
 
 FrogDev/Intermediate/CachedAssetRegisrty.bin
 
