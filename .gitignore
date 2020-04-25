@@ -67,8 +67,8 @@ Build/*/**
 Saved/*
 
 # Compiled source files for the engine to use
-Intermediate/*
-Plugins/*/Intermediate/*
+FrogDev/Intermediate/*
+FrogDev/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
@@ -77,4 +77,12 @@ FrogDev/Saved/
 FrogDev/Saved/*
 
 FrogDev/Intermediate/CachedAssetRegisrty.bin
+Unreal/FrogDev/Saved/Logs/
 
+Unreal/FrogDev/Intermediate/AssetRegistryCache/
+
+Unreal/FrogDev/Intermediate/
+
+Unreal/FrogDev/Saved/Config/CrashReportClient/UE4CC-Windows-6FAFBC444D44315C3B43AD85108066A1/
+
+Unreal/FrogDev/Saved/Backup/
