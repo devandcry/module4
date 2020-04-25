@@ -67,14 +67,18 @@ Build/*/**
 Saved/*
 
 # Compiled source files for the engine to use
-Unreal/FrogDev/Intermediate/*
-Plugins/*/Intermediate/*
+FrogDev/Intermediate/*
+FrogDev/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
 
-Unreal/FrogDev/Saved/
-Unreal/FrogDev/Saved/*
+FrogDev/Saved/
+FrogDev/Saved/*
 
-Unreal/FrogDev/Intermediate/CachedAssetRegisrty.bin
+FrogDev/Intermediate/CachedAssetRegisrty.bin
+Unreal/FrogDev/Saved/Logs/
 
+Unreal/FrogDev/Intermediate/AssetRegistryCache/
+
+Unreal/FrogDev/Intermediate/
