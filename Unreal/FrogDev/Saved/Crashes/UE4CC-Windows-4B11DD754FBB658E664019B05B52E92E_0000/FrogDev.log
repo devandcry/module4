@@ -1,0 +1,1459 @@
+﻿Log file open, 07/14/20 16:11:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FrogDev
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.905082
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+Launching UnrealBuildTool... [D:/Progs/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe -Mode=QueryTargets -Project="D:/GitHub/4Module/module4/Unreal/FrogDev/FrogDev.uproject" -Output="D:/GitHub/4Module/module4/Unreal/FrogDev/Intermediate/TargetInfo.json"]
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU:         Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Progs/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.14-13.11.34:035][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.07.14-13.11.34:036][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Engine.ini]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.07.14-13.11.34:037][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.07.14-13.11.34:038][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.07.14-13.11.34:038][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2020.07.14-13.11.34:082][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:1]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Engine.ini]
+[2020.07.14-13.11.34:083][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Engine.ini]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.14-13.11.34:083][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.07.14-13.11.34:092][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Engine.ini]
+[2020.07.14-13.11.34:093][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.14-13.11.34:093][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.14-13.11.34:093][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.14-13.11.34:093][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.14-13.11.34:093][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.14-13.11.34:093][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.14-13.11.34:093][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.07.14-13.11.34:093][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.14-13.11.34:093][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.14-13.11.34:093][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.14-13.11.34:093][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.14-13.11.34:093][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.14-13.11.34:093][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.14-13.11.34:093][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Engine.ini]
+[2020.07.14-13.11.34:093][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Engine.ini]
+[2020.07.14-13.11.34:151][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.07.14-13.11.34:151][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.14-13.11.34:151][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.14-13.11.34:151][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.07.14-13.11.34:151][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.14-13.11.34:151][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.07.14-13.11.34:151][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.14-13.11.34:151][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.14-13.11.34:152][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.14-13.11.34:153][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.14-13.11.34:154][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.14-13.11.34:154][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.14-13.11.34:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.14-13.11.34:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.14-13.11.34:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.14-13.11.34:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.14-13.11.34:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.14-13.11.34:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.14-13.11.34:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.14-13.11.34:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.14-13.11.34:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.14-13.11.34:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.14-13.11.34:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.14-13.11.34:154][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.07.14-13.11.34:154][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.14-13.11.34:154][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.14-13.11.34:154][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.07.14-13.11.34:154][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.14-13.11.34:154][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.14-13.11.34:154][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.14-13.11.34:162][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.14-13.11.34:167][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.14-13.11.34:226][  0]LogHAL: Display: Platform has ~ 8 GB [8528601088 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.14-13.11.34:226][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.14-13.11.34:227][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.14-13.11.34:227][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Scalability.ini]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.14-13.11.34:228][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.14-13.11.34:246][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.14-13.11.34:246][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.14-13.11.34:246][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Config/Windows/Engine.ini]
+[2020.07.14-13.11.34:361][  0]LogInit: Computer: DESKTOP-SPAGJFU
+[2020.07.14-13.11.34:361][  0]LogInit: User: andre
+[2020.07.14-13.11.34:361][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.07.14-13.11.34:361][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.14-13.11.34:393][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.07.14-13.11.34:397][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.14-13.11.34:397][  0]LogMemory: Process Physical Memory: 111.55 MB used, 111.55 MB peak
+[2020.07.14-13.11.34:397][  0]LogMemory: Process Virtual Memory: 105.07 MB used, 105.07 MB peak
+[2020.07.14-13.11.34:397][  0]LogMemory: Physical Memory: 4958.59 MB used,  3174.91 MB free, 8133.51 MB total
+[2020.07.14-13.11.34:397][  0]LogMemory: Virtual Memory: 5142.25 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.07.14-13.11.34:425][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.07.14-13.11.35:810][  0]LogInit: Using OS detected language (en-US).
+[2020.07.14-13.11.35:810][  0]LogInit: Using OS detected locale (en-US).
+[2020.07.14-13.11.35:898][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.07.14-13.11.36:581][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.14-13.11.37:357][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.14-13.11.37:357][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.14-13.11.41:240][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.14-13.11.41:240][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.07.14-13.11.41:240][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.07.14-13.11.41:240][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.14-13.11.41:352][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2020.07.14-13.11.41:352][  0]LogD3D11RHI:       4053/0/4066 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.07.14-13.11.41:355][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.14-13.11.41:355][  0]LogD3D11RHI:       0/0/4066 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.14-13.11.41:355][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.14-13.11.41:375][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.14-13.11.41:376][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2020.07.14-13.11.41:376][  0]LogWindows: EnumDisplayDevices:
+[2020.07.14-13.11.41:376][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2020.07.14-13.11.41:386][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2020.07.14-13.11.41:386][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2020.07.14-13.11.41:386][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2020.07.14-13.11.41:387][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.07.14-13.11.41:387][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2020.07.14-13.11.41:387][  0]LogD3D11RHI:   Driver Version: 445.75 (internal:26.21.14.4575, unified:445.75)
+[2020.07.14-13.11.41:387][  0]LogD3D11RHI:      Driver Date: 3-17-2020
+[2020.07.14-13.11.41:387][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2020.07.14-13.11.41:455][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.07.14-13.11.41:455][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.14-13.11.41:801][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.07.14-13.11.42:527][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.07.14-13.11.42:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.07.14-13.11.42:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.07.14-13.11.42:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.07.14-13.11.42:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.07.14-13.11.42:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.07.14-13.11.42:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.07.14-13.11.42:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.07.14-13.11.42:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.07.14-13.11.42:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.07.14-13.11.42:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.07.14-13.11.42:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.07.14-13.11.42:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.07.14-13.11.42:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.07.14-13.11.42:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.07.14-13.11.42:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.07.14-13.11.42:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.07.14-13.11.42:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.07.14-13.11.42:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.07.14-13.11.42:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.07.14-13.11.42:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.07.14-13.11.42:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.07.14-13.11.42:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.07.14-13.11.42:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.07.14-13.11.43:011][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.07.14-13.11.43:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.07.14-13.11.43:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.07.14-13.11.43:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.07.14-13.11.43:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.07.14-13.11.43:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.07.14-13.11.43:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.07.14-13.11.43:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.07.14-13.11.43:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.07.14-13.11.43:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.07.14-13.11.43:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.07.14-13.11.43:436][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.14-13.11.43:686][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.14-13.11.44:635][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../GitHub/4Module/module4/Unreal/FrogDev/Intermediate/Shaders/WorkingDirectory/14328/).
+[2020.07.14-13.11.44:636][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/andre/AppData/Local/Temp/UnrealShaderWorkingDir/F7FE753D4C34C8F597E3459ACB1CB51B/'.
+[2020.07.14-13.11.44:643][  0]LogXGEController: Cleaning working directory: C:/Users/andre/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.07.14-13.11.44:644][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.14-13.11.44:645][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.14-13.11.44:645][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.14-13.11.50:643][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.14-13.11.50:900][  0]LogDerivedDataCache: Loaded boot cache 0.26s 78MB C:/Users/andre/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.07.14-13.11.50:900][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/andre/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.07.14-13.11.50:900][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub/4Module/module4/Unreal/FrogDev/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.14-13.11.50:900][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.14-13.11.50:900][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub/4Module/module4/Unreal/FrogDev/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.14-13.11.50:900][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.14-13.11.51:047][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.14-13.11.51:047][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.14-13.11.51:047][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.07.14-13.11.51:051][  0]LogDerivedDataCache: Using Local data cache path C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.14-13.11.51:051][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.14-13.11.51:051][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.14-13.11.51:151][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.07.14-13.11.51:279][  0]LogSlate: Using FreeType 2.10.0
+[2020.07.14-13.11.51:487][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.14-13.11.52:608][  0]LogAssetRegistry: FAssetRegistry took 0.0195 seconds to start up
+[2020.07.14-13.12.02:704][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.14-13.12.04:779][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.14-13.12.04:779][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.07.14-13.12.04:780][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.14-13.12.04:780][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.07.14-13.12.04:780][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.07.14-13.12.05:443][  0]LogNetVersion: FrogDev 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3351283168)
+[2020.07.14-13.12.18:949][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.190887 seconds
+[2020.07.14-13.12.18:994][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.07.14-13.12.18:994][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.07.14-13.12.18:994][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.14-13.12.25:879][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.14-13.12.25:949][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.14-13.12.26:981][  0]SourceControl: Source control is disabled
+[2020.07.14-13.12.26:990][  0]SourceControl: Source control is disabled
+[2020.07.14-13.12.27:118][  0]SourceControl: Source control is disabled
+[2020.07.14-13.12.27:180][  0]SourceControl: Source control is disabled
+[2020.07.14-13.12.27:217][  0]SourceControl: Source control is disabled
+[2020.07.14-13.12.29:149][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.14-13.12.29:434][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.14-13.12.29:434][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.14-13.12.30:115][  0]LogOcInput: OculusInput pre-init called
+[2020.07.14-13.12.30:249][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.07.14-13.12.30:250][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.07.14-13.12.32:486][  0]LogEngine: Initializing Engine...
+[2020.07.14-13.12.32:635][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.14-13.12.32:827][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.094 s
+[2020.07.14-13.12.33:990][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.14-13.12.34:766][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.14-13.12.35:039][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.14-13.12.35:039][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.14-13.12.35:039][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.14-13.12.35:039][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.14-13.12.35:039][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.14-13.12.35:039][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.14-13.12.35:039][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.14-13.12.35:049][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.14-13.12.35:056][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.14-13.12.35:056][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.14-13.12.35:170][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.14-13.12.35:170][  0]LogAudioMixer: Display: Name: Динамики (High Definition Audio Device)
+[2020.07.14-13.12.35:170][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.07.14-13.12.35:170][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.14-13.12.35:170][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.14-13.12.35:170][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.14-13.12.35:170][  0]LogAudioMixer: Display: Channel Order:
+[2020.07.14-13.12.35:170][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.14-13.12.35:170][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.07.14-13.12.35:224][  0]LogAudioMixer: Display: Using Audio Device Динамики (High Definition Audio Device)
+[2020.07.14-13.12.35:276][  0]LogInit: FAudioDevice initialized.
+[2020.07.14-13.12.35:289][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.14-13.12.35:452][  0]LogDerivedDataCache: Saved boot cache 0.16s 78MB C:/Users/andre/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.07.14-13.12.35:504][  0]LogInit: Texture streaming: Enabled
+[2020.07.14-13.12.35:866][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.14-13.12.35:876][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.07.14-13.12.35:921][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.07.14-13.12.37:165][  0]LogInit: Transaction tracking system initialized
+[2020.07.14-13.12.38:443][  0]BlueprintLog: New page: Editor Load
+[2020.07.14-13.12.42:026][  0]LocalizationService: Localization service is disabled
+[2020.07.14-13.12.50:805][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/4Module/module4/Unreal/FrogDev/Content/' took 0.06s
+[2020.07.14-13.12.50:805][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.14-13.12.50:805][  0]LogCook: Display: Mobile HDR setting 0
+[2020.07.14-13.12.58:381][  0]SourceControl: Source control is disabled
+[2020.07.14-13.12.58:671][  0]Cmd: MAP LOAD FILE="../../../../../GitHub/4Module/module4/Unreal/FrogDev/Content/MainMenu/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.14-13.12.58:880][  0]LightingResults: New page: Lighting Build
+[2020.07.14-13.12.59:298][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.14-13.12.59:366][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.14-13.12.59:487][  0]MapCheck: New page: Map Check
+[2020.07.14-13.12.59:487][  0]LightingResults: New page: Lighting Build
+[2020.07.14-13.13.01:214][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.07.14-13.13.12:442][  0]LogAIModule: Creating AISystem for world MainMenu
+[2020.07.14-13.13.14:440][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.14-13.13.15:208][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.07.14-13.13.15:264][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.14-13.13.15:283][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 18.973ms to complete.
+[2020.07.14-13.13.15:300][  0]LogFileHelpers: Loading map 'MainMenu' took 16.707
+[2020.07.14-13.13.28:981][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.14-13.13.29:024][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.14-13.13.29:039][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.14-13.13.29:047][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.14-13.13.29:306][  0]LogCollectionManager: Loaded 0 collections in 0.000961 seconds
+[2020.07.14-13.13.29:470][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/4Module/module4/Unreal/FrogDev/Saved/Collections/' took 0.00s
+[2020.07.14-13.13.29:470][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/4Module/module4/Unreal/FrogDev/Content/Developers/andre/Collections/' took 0.00s
+[2020.07.14-13.13.29:470][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/4Module/module4/Unreal/FrogDev/Content/Collections/' took 0.00s
+[2020.07.14-13.13.29:470][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 3015 classes and 717 folders.
+[2020.07.14-13.13.29:653][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.07.14-13.13.31:643][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.07.14-13.13.31:729][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2020.07.14-13.13.32:626][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.07.14-13.13.33:137][  0]LogSlate: Took 0.031633 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.14-13.13.33:181][  0]LogSlate: Took 0.024271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.14-13.13.33:341][  0]LogSlate: Took 0.034067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.14-13.13.34:245][  0]LogRenderer: Reallocating scene render targets to support 968x548 Format 10 NumSamples 1 (Frame:1).
+[2020.07.14-13.13.35:260][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.07.14-13.13.35:260][  0]LogLoad: (Engine Initialization) Total time: 165.57 seconds
+[2020.07.14-13.13.35:260][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.14-13.13.36:370][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.07.14-13.13.36:821][  0]LogSlate: Took 0.024342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.14-13.13.41:771][ 62]LogAssetRegistry: Asset discovery search completed in 109.1654 seconds
+[2020.07.14-13.13.41:798][ 62]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2020.07.14-13.14.52:988][439]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{077eefc0-a0f4-44bb-a887-8374d2ef2d03}.
+[2020.07.14-13.14.52:988][439]LogTemp: Resetting audio stream to device id 
+[2020.07.14-13.14.53:072][439]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.14-13.14.53:072][439]LogAudioMixer: Display: Name: Динамики (High Definition Audio Device)
+[2020.07.14-13.14.53:072][439]LogAudioMixer: Display: Is Default: Yes
+[2020.07.14-13.14.53:072][439]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.14-13.14.53:072][439]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.14-13.14.53:072][439]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.14-13.14.53:072][439]LogAudioMixer: Display: Channel Order:
+[2020.07.14-13.14.53:072][439]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.14-13.14.53:072][439]LogAudioMixer: Display: 1: FrontRight
+[2020.07.14-13.17.07:604][839]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.14-13.17.07:605][839]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.14-13.17.13:943][537]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.14-13.17.25:619][537]LogMaterial: Uniform references updated for custom material expression Custom.
+[2020.07.14-13.17.26:742][537]LogTexture: Display: Building textures: 3_yashika_s_nichem_i_red_outlines (AutoDXT, 2048X2048)
+[2020.07.14-13.17.26:742][537]LogTexture: Display: Building textures: M_banka_roz_bel_s_red_outlines (AutoDXT, 2048X2048)
+[2020.07.14-13.17.26:742][537]LogTexture: Display: Building textures: giguli_violet_s_outlines (AutoDXT, 2048X2048)
+[2020.07.14-13.17.26:742][537]LogTexture: Display: Building textures: giguli_hakki_s_outlines (AutoDXT, 2048X2048)
+[2020.07.14-13.17.26:742][537]LogTexture: Display: Building textures: window_very_long_right_light (AutoDXT, 2048X2048)
+[2020.07.14-13.17.29:775][537]LogTexture: Display: Building textures: ost_bashnya_rassvet (AutoDXT, 2048X2048)
+[2020.07.14-13.17.30:617][537]LogTexture: Display: Building textures: nebo_r (AutoDXT, 2048X2048)
+[2020.07.14-13.17.30:908][537]LogTexture: Display: Building textures: moscow_city_rassvet (AutoDXT, 2048X2048)
+[2020.07.14-13.17.31:529][537]LogTexture: Display: Building textures: lyuk2_100 (AutoDXT, 2048X2048)
+[2020.07.14-13.17.31:921][537]LogTexture: Display: Building textures: luzha4 (AutoDXT, 2048X2048)
+[2020.07.14-13.17.32:257][537]LogTexture: Display: Building textures: luzha3 (AutoDXT, 2048X2048)
+[2020.07.14-13.17.32:880][537]LogTexture: Display: Building textures: window_for_delivery (AutoDXT, 2048X2048)
+[2020.07.14-13.17.33:536][537]LogTexture: Display: Building textures: reklama2 (AutoDXT, 2048X2048)
+[2020.07.14-13.17.33:820][537]LogTexture: Display: Building textures: plyus (AutoDXT, 2048X2048)
+[2020.07.14-13.17.34:133][537]LogTexture: Display: Building textures: plakat1 (AutoDXT, 2048X2048)
+[2020.07.14-13.17.34:755][537]LogTexture: Display: Building textures: apteka (AutoDXT, 2048X2048)
+[2020.07.14-13.17.35:333][537]LogTexture: Display: Building textures: tok4 (AutoDXT, 2048X2048)
+[2020.07.14-13.17.35:853][537]LogTexture: Display: Building textures: tok3_2 (AutoDXT, 2048X2048)
+[2020.07.14-13.17.36:180][537]LogTexture: Display: Building textures: tok3 (AutoDXT, 2048X2048)
+[2020.07.14-13.17.36:787][537]LogTexture: Display: Building textures: tok1 (AutoDXT, 2048X2048)
+[2020.07.14-13.17.39:585][537]LogTexture: Display: Building textures: bench_2 (AutoDXT, 4096X4096)
+[2020.07.14-13.17.40:194][537]LogAIModule: Creating AISystem for world Level4
+[2020.07.14-13.17.40:726][537]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level4.Level4
+[2020.07.14-13.17.40:883][537]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.07.14-13.17.41:057][537]Cmd: MAP LOAD FILE="../../../../../GitHub/4Module/module4/Unreal/FrogDev/Content/Levels/Level4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.14-13.17.41:060][537]LightingResults: New page: Lighting Build
+[2020.07.14-13.17.41:061][537]LoadErrors: New page: Loading map: Level4.umap
+[2020.07.14-13.17.41:091][537]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.07.14-13.17.41:103][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.14-13.17.41:287][537]MapCheck: New page: Map Check
+[2020.07.14-13.17.41:287][537]LightingResults: New page: Lighting Build
+[2020.07.14-13.17.41:377][537]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.07.14-13.17.42:244][537]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.14-13.17.42:512][537]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.07.14-13.17.42:755][537]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.14-13.17.42:757][537]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.664ms to complete.
+[2020.07.14-13.17.42:757][537]LogFileHelpers: Loading map 'Level4' took 1.847
+[2020.07.14-13.17.57:230][784]MapCheck: New page: Map Check
+[2020.07.14-13.17.57:278][784]Cmd: MAP REBUILD ALLVISIBLE
+[2020.07.14-13.17.57:290][784]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.07.14-13.17.57:712][784]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=false
+[2020.07.14-13.17.58:334][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.07.14-13.17.58:394][784]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.14-13.17.58:579][784]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.07.14-13.17.58:580][784]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.07.14-13.17.58:580][784]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.14-13.17.58:595][784]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.14-13.17.58:609][784]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.14-13.17.58:632][784]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.14-13.17.58:648][784]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.14-13.17.58:662][784]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.14-13.17.58:677][784]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.14-13.17.58:692][784]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.14-13.18.02:719][784]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.07.14-13.18.02:719][784]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.07.14-13.18.02:719][784]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.07.14-13.18.02:719][784]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.07.14-13.18.02:719][784]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.07.14-13.18.02:720][784]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.07.14-13.18.02:720][784]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.07.14-13.18.02:720][784]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.07.14-13.18.02:720][784]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.07.14-13.18.02:720][784]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.07.14-13.18.02:720][784]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.07.14-13.18.02:720][784]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.07.14-13.18.02:720][784]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.07.14-13.18.02:720][784]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.14-13.18.02:720][784]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.07.14-13.18.02:720][784]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.07.14-13.18.02:720][784]TextureStreamingBuild: Display: Compiling optional shaders took 4.348 seconds.
+[2020.07.14-13.18.02:843][784]LogLevel: Display: Export Material TexCoord Scales took 0.123 seconds.
+[2020.07.14-13.18.02:874][784]TextureStreamingBuild: Display: Build Texture Streaming took 0.021 seconds.
+[2020.07.14-13.18.02:897][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.07.14-13.18.03:647][784]LightingResults: New page: Lighting Build - Jul 14, 2020, 7:18:03 PM
+[2020.07.14-13.18.04:484][784]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.07.14-13.18.06:470][784]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.07.14-13.18.06:499][784]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.07.14-13.18.10:087][784]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.07.14-13.18.10:087][784]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14328
+[2020.07.14-13.18.17:118][784]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.07.14-13.18.17:136][784]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.07.14-13.18.17:136][784]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.07.14-13.18.17:136][784]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.07.14-13.18.17:137][784]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.07.14-13.18.17:137][784]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.07.14-13.18.17:475][784]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.07.14-13.18.17:475][784]MapCheck: New page: Level4 - Jul 14, 2020, 7:18:17 PM
+[2020.07.14-13.18.17:485][784]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2020.07.14-13.18.17:533][784]MapCheck: Warning: Zdanie1_Sprite_31 'Zdanie1_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:533][784]MapCheck: Warning: reklama3_Sprite2_22 'reklama3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:533][784]MapCheck: Warning: asfalt_fon9 'asfalt_fon' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:533][784]MapCheck: Warning: Zdanie2_Sprite4 'Zdanie2_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:533][784]MapCheck: Warning: asfalt_fon16 'asfalt_fon' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:578][784]MapCheck: Warning: NewBlueprint_2 'table_white_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:578][784]MapCheck: Warning: NewBlueprint_2 'Frame_os_window_Sprote' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:578][784]MapCheck: Warning: NewBlueprint_2 'Stana_white_left' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:578][784]MapCheck: Warning: NewBlueprint_2 'Stana_white_right' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:578][784]MapCheck: Warning: NewBlueprint_2 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:578][784]MapCheck: Warning: NewBlueprint_2 'table_white_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:672][784]MapCheck: Warning: Dark_window_Sprite7 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:673][784]MapCheck: Warning: Dark_window_Sprite8 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:673][784]MapCheck: Warning: Dark_window_Sprite9 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:673][784]MapCheck: Warning: Dark_window_Sprite10 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:673][784]MapCheck: Warning: Dark_window_Sprite15 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:673][784]MapCheck: Warning: Dark_window_Sprite16 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:673][784]MapCheck: Warning: window_Sprite183 'window_Sprite6' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:674][784]MapCheck: Warning: derevo_na_fone3_Sprite12 'derevo_na_fone3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:674][784]MapCheck: Warning: derevo_na_fone3_Sprite13 'derevo_na_fone3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:674][784]MapCheck: Warning: derevo_na_fone3_Sprite14 'derevo_na_fone3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:674][784]MapCheck: Warning: derevo_na_fone3_Sprite15 'derevo_na_fone3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:674][784]MapCheck: Warning: derevo_na_fone3_Sprite16 'derevo_na_fone3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:674][784]MapCheck: Warning: shadow_Sprite_353 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:674][784]MapCheck: Warning: shadow_Sprite_353 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:675][784]MapCheck: Warning: shadow_Sprite2 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:675][784]MapCheck: Warning: shadow_Sprite2 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:675][784]MapCheck: Warning: shadow_Sprite3 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:675][784]MapCheck: Warning: shadow_Sprite3 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:675][784]MapCheck: Warning: shadow_Sprite4 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:675][784]MapCheck: Warning: shadow_Sprite4 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:675][784]MapCheck: Warning: shadow_Sprite5 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:675][784]MapCheck: Warning: shadow_Sprite5 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:676][784]MapCheck: Warning: shadow_Sprite6 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:676][784]MapCheck: Warning: shadow_Sprite6 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:676][784]MapCheck: Warning: shadow_Sprite7 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:676][784]MapCheck: Warning: shadow_Sprite7 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:676][784]MapCheck: Warning: shadow_Sprite8 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:676][784]MapCheck: Warning: shadow_Sprite8 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:676][784]MapCheck: Warning: shadow_Sprite9 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:676][784]MapCheck: Warning: shadow_Sprite9 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:676][784]MapCheck: Warning: shadow_Sprite10 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:677][784]MapCheck: Warning: shadow_Sprite10 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:677][784]MapCheck: Warning: shadow_Sprite11 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:677][784]MapCheck: Warning: shadow_Sprite11 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:677][784]MapCheck: Warning: shadow_Sprite12 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:677][784]MapCheck: Warning: shadow_Sprite12 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:677][784]MapCheck: Warning: shadow_Sprite13 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:677][784]MapCheck: Warning: shadow_Sprite13 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:678][784]MapCheck: Warning: shadow_Sprite14 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:678][784]MapCheck: Warning: shadow_Sprite14 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:678][784]MapCheck: Warning: shadow_Sprite15 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:678][784]MapCheck: Warning: shadow_Sprite15 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:678][784]MapCheck: Warning: shadow_Sprite16 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:678][784]MapCheck: Warning: shadow_Sprite16 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:678][784]MapCheck: Warning: shadow_Sprite17 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:678][784]MapCheck: Warning: shadow_Sprite17 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:678][784]MapCheck: Warning: shadow_Sprite18 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:679][784]MapCheck: Warning: shadow_Sprite18 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:679][784]MapCheck: Warning: shadow_Sprite19 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:679][784]MapCheck: Warning: shadow_Sprite19 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:679][784]MapCheck: Warning: shadow_Sprite20 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:679][784]MapCheck: Warning: shadow_Sprite20 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:679][784]MapCheck: Warning: shadow_Sprite21 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:679][784]MapCheck: Warning: shadow_Sprite21 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:679][784]MapCheck: Warning: shadow_Sprite22 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:680][784]MapCheck: Warning: shadow_Sprite22 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:680][784]MapCheck: Warning: shadow_Sprite23 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:680][784]MapCheck: Warning: shadow_Sprite23 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:680][784]MapCheck: Warning: shadow_Sprite24 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:680][784]MapCheck: Warning: shadow_Sprite24 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:680][784]MapCheck: Warning: shadow_Sprite25 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:680][784]MapCheck: Warning: shadow_Sprite25 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:680][784]MapCheck: Warning: shadow_Sprite26 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:680][784]MapCheck: Warning: shadow_Sprite26 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:681][784]MapCheck: Warning: shadow_Sprite27 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:681][784]MapCheck: Warning: shadow_Sprite27 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:681][784]MapCheck: Warning: shadow_Sprite28 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:681][784]MapCheck: Warning: shadow_Sprite28 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:681][784]MapCheck: Warning: shadow_Sprite29 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:681][784]MapCheck: Warning: shadow_Sprite29 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:681][784]MapCheck: Warning: shadow_Sprite30 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:681][784]MapCheck: Warning: shadow_Sprite30 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:682][784]MapCheck: Warning: shadow_Sprite31 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:682][784]MapCheck: Warning: shadow_Sprite31 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:682][784]MapCheck: Warning: shadow_Sprite32 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:682][784]MapCheck: Warning: shadow_Sprite32 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:682][784]MapCheck: Warning: shadow_Sprite33 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:682][784]MapCheck: Warning: shadow_Sprite33 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:682][784]MapCheck: Warning: shadow_Sprite34 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:682][784]MapCheck: Warning: shadow_Sprite34 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:682][784]MapCheck: Warning: shadow_Sprite35 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:683][784]MapCheck: Warning: shadow_Sprite35 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:683][784]MapCheck: Warning: shadow_Sprite36 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:683][784]MapCheck: Warning: shadow_Sprite36 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:683][784]MapCheck: Warning: shadow_Sprite37 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:683][784]MapCheck: Warning: shadow_Sprite37 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:683][784]MapCheck: Warning: shadow_Sprite38 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:683][784]MapCheck: Warning: shadow_Sprite38 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:683][784]MapCheck: Warning: shadow_Sprite39 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:684][784]MapCheck: Warning: shadow_Sprite39 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:684][784]MapCheck: Warning: shadow_Sprite40 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:684][784]MapCheck: Warning: shadow_Sprite40 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:684][784]MapCheck: Warning: shadow_Sprite41 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:684][784]MapCheck: Warning: shadow_Sprite41 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:684][784]MapCheck: Warning: asfalt_s_kamushkami2_Sprite47 'asfalt_s_kamushkami2_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:684][784]MapCheck: Warning: asfalt_s_kamushkami2_Sprite49 'asfalt_s_kamushkami2_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:685][784]MapCheck: Warning: lesa3_44 'lesa3' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:685][784]MapCheck: Warning: lesa6 'lesa3' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:685][784]MapCheck: Warning: lesa8 'lesa3' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:685][784]MapCheck: Warning: lesa10 'lesa3' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:685][784]MapCheck: Warning: NewBlueprint4 'table_white_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:685][784]MapCheck: Warning: NewBlueprint4 'Frame_os_window_Sprote' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:685][784]MapCheck: Warning: NewBlueprint4 'Stana_white_left' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:686][784]MapCheck: Warning: NewBlueprint4 'Stana_white_right' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:686][784]MapCheck: Warning: NewBlueprint4 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:686][784]MapCheck: Warning: NewBlueprint4 'table_white_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:686][784]MapCheck: Warning: NewBlueprint5 'table_white_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:686][784]MapCheck: Warning: NewBlueprint5 'Frame_os_window_Sprote' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:686][784]MapCheck: Warning: NewBlueprint5 'Stana_white_left' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:686][784]MapCheck: Warning: NewBlueprint5 'Stana_white_right' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:686][784]MapCheck: Warning: NewBlueprint5 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:686][784]MapCheck: Warning: NewBlueprint5 'table_white_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:687][784]MapCheck: Warning: Dark_window_Sprite11 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:687][784]MapCheck: Warning: Dark_window_Sprite12 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:687][784]MapCheck: Warning: NewBlueprint6 'table_white_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:687][784]MapCheck: Warning: NewBlueprint6 'Frame_os_window_Sprote' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:687][784]MapCheck: Warning: NewBlueprint6 'Stana_white_left' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:687][784]MapCheck: Warning: NewBlueprint6 'Stana_white_right' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:687][784]MapCheck: Warning: NewBlueprint6 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:687][784]MapCheck: Warning: NewBlueprint6 'table_white_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:688][784]MapCheck: Warning: asfalt_s_kamushkami2_Sprite53 'asfalt_s_kamushkami2_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:688][784]MapCheck: Warning: lesa13 'lesa3' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:688][784]MapCheck: Warning: lesa14 'lesa3' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:688][784]MapCheck: Warning: lesa17 'lesa3' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:689][784]MapCheck: Warning: lesa18 'lesa3' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:689][784]MapCheck: Warning: lesa19 'lesa3' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:689][784]MapCheck: Warning: lesa20 'lesa3' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:689][784]MapCheck: Warning: lesa21 'lesa3' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:689][784]MapCheck: Warning: lesa22 'lesa3' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:689][784]MapCheck: Warning: Dark_window_Sprite17 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:689][784]MapCheck: Warning: Dark_window_Sprite18 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:690][784]MapCheck: Warning: Dark_window_Sprite19 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:690][784]MapCheck: Warning: Dark_window_Sprite20 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:690][784]MapCheck: Warning: Dark_window_Sprite21 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:690][784]MapCheck: Warning: Dark_window_Sprite22 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:690][784]MapCheck: Warning: Dark_window_Sprite23 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:690][784]MapCheck: Warning: Dark_window_Sprite24 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:690][784]MapCheck: Warning: Dark_window_Sprite27 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:690][784]MapCheck: Warning: Dark_window_Sprite28 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:691][784]MapCheck: Warning: Dark_window_Sprite29 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:691][784]MapCheck: Warning: Dark_window_Sprite30 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:691][784]MapCheck: Warning: Dark_window_Sprite33 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:691][784]MapCheck: Warning: Dark_window_Sprite34 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:691][784]MapCheck: Warning: Dark_window_Sprite35 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:691][784]MapCheck: Warning: Dark_window_Sprite36 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:691][784]MapCheck: Warning: Dark_window_Sprite37 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:691][784]MapCheck: Warning: Dark_window_Sprite38 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:691][784]MapCheck: Warning: Dark_window_Sprite39 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:692][784]MapCheck: Warning: Dark_window_Sprite40 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:692][784]MapCheck: Warning: Dark_window_Sprite41 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:692][784]MapCheck: Warning: Dark_window_Sprite42 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:692][784]MapCheck: Warning: Dark_window_Sprite43 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:693][784]MapCheck: Warning: Dark_window_Sprite44 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:693][784]MapCheck: Warning: Dark_window_Sprite45 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:693][784]MapCheck: Warning: Dark_window_Sprite46 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:693][784]MapCheck: Warning: Dark_window_Sprite47 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:693][784]MapCheck: Warning: Dark_window_Sprite48 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:693][784]MapCheck: Warning: Dark_window_Sprite49 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:693][784]MapCheck: Warning: Dark_window_Sprite50 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:693][784]MapCheck: Warning: Dark_window_Sprite51 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:693][784]MapCheck: Warning: Dark_window_Sprite52 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:693][784]MapCheck: Warning: Dark_window_Sprite53 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:693][784]MapCheck: Warning: Dark_window_Sprite54 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:693][784]MapCheck: Warning: Dark_window_Sprite55 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:694][784]MapCheck: Warning: Dark_window_Sprite56 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:694][784]MapCheck: Warning: Dark_window_Sprite57 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:694][784]MapCheck: Warning: Dark_window_Sprite58 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:694][784]MapCheck: Warning: Dark_window_Sprite59 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:694][784]MapCheck: Warning: Dark_window_Sprite60 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:694][784]MapCheck: Warning: Dark_window_Sprite61 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:694][784]MapCheck: Warning: Dark_window_Sprite62 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:694][784]MapCheck: Warning: Dark_window_Sprite63 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:694][784]MapCheck: Warning: Dark_window_Sprite64 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:694][784]MapCheck: Warning: Dark_window_Sprite65 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:694][784]MapCheck: Warning: Dark_window_Sprite66 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:694][784]MapCheck: Warning: Dark_window_Sprite67 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:694][784]MapCheck: Warning: Dark_window_Sprite68 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:695][784]MapCheck: Warning: Dark_window_Sprite69 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:695][784]MapCheck: Warning: Dark_window_Sprite70 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:695][784]MapCheck: Warning: Dark_window_Sprite71 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:695][784]MapCheck: Warning: Dark_window_Sprite72 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:695][784]MapCheck: Warning: Dark_window_Sprite73 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:695][784]MapCheck: Warning: derevo_na_fone3_Sprite18 'derevo_na_fone3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:695][784]MapCheck: Warning: derevo_na_fone3_Sprite19 'derevo_na_fone3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:695][784]MapCheck: Warning: derevo_na_fone3_Sprite20 'derevo_na_fone3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:695][784]MapCheck: Warning: derevo_na_fone3_Sprite21 'derevo_na_fone3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:695][784]MapCheck: Warning: derevo_na_fone3_Sprite22 'derevo_na_fone3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:696][784]MapCheck: Warning: Dark_window_Sprite74 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:696][784]MapCheck: Warning: Dark_window_Sprite75 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:696][784]MapCheck: Warning: Dark_window_Sprite76 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:696][784]MapCheck: Warning: Dark_window_Sprite77 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:696][784]MapCheck: Warning: Dark_window_Sprite78 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:697][784]MapCheck: Warning: derevo_na_fone3_Sprite24 'derevo_na_fone3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:697][784]MapCheck: Warning: asfalt_s_kamushkami2_Sprite63 'asfalt_s_kamushkami2_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:697][784]MapCheck: Warning: asfalt_s_kamushkami2_Sprite10 'asfalt_s_kamushkami2_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:698][784]MapCheck: Warning: asfalt_s_kamushkami2_Sprite64 'asfalt_s_kamushkami2_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:698][784]MapCheck: Warning: swing_balance_Sprite2 'swing_balance_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:698][784]MapCheck: Warning: gorka_Sprite_28 'gorka_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:698][784]MapCheck: Warning: window_Sprite12_22 'window_Sprite12' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:698][784]MapCheck: Warning: window_Sprite15_25 'window_Sprite15' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:698][784]MapCheck: Warning: shadow_Sprite42 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:698][784]MapCheck: Warning: shadow_Sprite42 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:698][784]MapCheck: Warning: shadow_Sprite43 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:698][784]MapCheck: Warning: shadow_Sprite43 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:698][784]MapCheck: Warning: shadow_Sprite44 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:699][784]MapCheck: Warning: shadow_Sprite44 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:699][784]MapCheck: Warning: shadow_Sprite45 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:699][784]MapCheck: Warning: shadow_Sprite45 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:699][784]MapCheck: Warning: shadow_Sprite46 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:699][784]MapCheck: Warning: shadow_Sprite46 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:699][784]MapCheck: Warning: shadow_Sprite47 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:699][784]MapCheck: Warning: shadow_Sprite47 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:699][784]MapCheck: Warning: shadow_Sprite48 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:699][784]MapCheck: Warning: shadow_Sprite48 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:699][784]MapCheck: Warning: shadow_Sprite49 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:699][784]MapCheck: Warning: shadow_Sprite49 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:699][784]MapCheck: Warning: shadow_Sprite50 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:700][784]MapCheck: Warning: shadow_Sprite50 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:700][784]MapCheck: Warning: shadow_Sprite51 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:700][784]MapCheck: Warning: shadow_Sprite51 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:700][784]MapCheck: Warning: shadow_Sprite52 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:700][784]MapCheck: Warning: shadow_Sprite52 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:700][784]MapCheck: Warning: shadow_Sprite53 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:700][784]MapCheck: Warning: shadow_Sprite53 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:700][784]MapCheck: Warning: shadow_Sprite54 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:700][784]MapCheck: Warning: shadow_Sprite54 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:700][784]MapCheck: Warning: shadow_Sprite55 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:700][784]MapCheck: Warning: shadow_Sprite55 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:700][784]MapCheck: Warning: shadow_Sprite56 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.17:700][784]MapCheck: Warning: shadow_Sprite56 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:701][784]MapCheck: Warning: reklama3_Sprite4_47 'reklama3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:701][784]MapCheck: Warning: window_Sprite460 'window_Sprite1' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:701][784]MapCheck: Warning: window_Sprite461 'window_Sprite1' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:701][784]MapCheck: Warning: window_Sprite462 'window_Sprite1' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:701][784]MapCheck: Warning: window_Sprite463 'window_Sprite1' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:701][784]MapCheck: Warning: window_Sprite464 'window_Sprite1' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:701][784]MapCheck: Warning: window_Sprite465 'window_Sprite1' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:701][784]MapCheck: Warning: window_Sprite467 'window_Sprite1' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:701][784]MapCheck: Warning: window_Sprite468 'window_Sprite1' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:701][784]MapCheck: Warning: window_Sprite138 'window_Sprite5' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:702][784]MapCheck: Warning: MovableObj_base_yashik_2 '3_yashika_s_apelsinami_i_red_outlines_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:702][784]MapCheck: Warning: MovableObj_base_yashik1_2 '3_yashika_s_nichem_i_red_outlines_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:702][784]MapCheck: Warning: MovableObj_base_yashik2 '3_yashika_s_nichem_i_red_outlines_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.17:702][784]MapCheck: Map check complete: 1 Error(s), 254 Warning(s), took 226.59ms to complete.
+[2020.07.14-13.18.17:735][784]LogEditorBuildUtils: Build time 0:20
+[2020.07.14-13.18.17:958][784]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer NewMaterial4, compiling. 
+[2020.07.14-13.18.18:008][784]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.07.14-13.18.18:008][784]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.07.14-13.18.18:008][784]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer NewMaterial4, compiling. 
+[2020.07.14-13.18.18:504][785]LogShaderCompilers: Warning: Failed to compile Material  for platform PCD3D_SM5, Default Material will be used in game.
+[2020.07.14-13.18.18:504][785]LogShaderCompilers: Display: Base pass shaders cannot read from the SceneTexturesStruct.
+[2020.07.14-13.18.18:732][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.07.14-13.18.20:020][790]LogEditorViewport: Clicking on Actor (context menu): ConstructiveHouse_1_C (ConstructiveHouse_1)
+[2020.07.14-13.18.21:784][811]LogSlate: Window 'Message Log' being destroyed
+[2020.07.14-13.18.21:789][811]LogSlate: Window 'Message Log' being destroyed
+[2020.07.14-13.18.23:015][843]Job is a success!
+[2020.07.14-13.18.23:421][844]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.077s
+[2020.07.14-13.18.23:421][844]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.07.14-13.18.23:421][844]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.07.14-13.18.23:421][844]LogVolumetricLightmapImport:      Bricks at depth
+[2020.07.14-13.18.23:422][844]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2020.07.14-13.18.23:422][844]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2020.07.14-13.18.23:422][844]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2020.07.14-13.18.23:422][844]LogVolumetricLightmapImport:      Bricks in each level
+[2020.07.14-13.18.23:422][844]LogVolumetricLightmapImport:          Level4 			 8 bricks 	 100.0% (Persistent Level)
+[2020.07.14-13.18.24:160][844]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2020.07.14-13.18.24:160][844]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.07.14-13.18.24:160][844]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2020.07.14-13.18.24:160][844]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2020.07.14-13.18.24:160][844]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.07.14-13.18.24:160][844]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2020.07.14-13.18.24:160][844]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X32)
+[2020.07.14-13.18.24:160][844]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 64X32)
+[2020.07.14-13.18.24:160][844]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X32)
+[2020.07.14-13.18.24:160][844]Lightmass on DESKTOP-SPAGJFU: 3.69 sec total, 234 ms importing, 79 ms setup, 74 ms photons, 3.08 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 21.6 sec total, 309 ms processing.
+[2020.07.14-13.18.24:184][844]LogStaticLightingSystem: Level4_BuiltData storing lightmap data for 12 meshes in 3 LightmapResourceClusters (4.0 Meshes per cluster).
+[2020.07.14-13.18.24:315][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.07.14-13.18.24:483][844]LogStaticLightingSystem: Illumination: 20.7 sec (228 ms encoding lightmaps, 15 ms encoding shadowmaps)
+[2020.07.14-13.18.24:498][844]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.07.14-13.18.24:498][844]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 3 textures
+[2020.07.14-13.18.25:099][844]DumpUnbuiltLightIteractions
+[2020.07.14-13.18.25:099][844]Lights with unbuilt interactions: 0
+[2020.07.14-13.18.25:099][844]
+[2020.07.14-13.18.25:099][844]Primitives with unbuilt interactions: 0
+[2020.07.14-13.18.25:435][845]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.07.14-13.18.25:435][845]MapCheck: New page: Level4 - Jul 14, 2020, 7:18:25 PM
+[2020.07.14-13.18.25:435][845]MapCheck: Warning: Zdanie1_Sprite_31 'Zdanie1_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:435][845]MapCheck: Warning: reklama3_Sprite2_22 'reklama3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:436][845]MapCheck: Warning: asfalt_fon9 'asfalt_fon' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:436][845]MapCheck: Warning: Zdanie2_Sprite4 'Zdanie2_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:436][845]MapCheck: Warning: asfalt_fon16 'asfalt_fon' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:436][845]MapCheck: Warning: NewBlueprint_2 'table_white_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:436][845]MapCheck: Warning: NewBlueprint_2 'Frame_os_window_Sprote' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:436][845]MapCheck: Warning: NewBlueprint_2 'Stana_white_left' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:436][845]MapCheck: Warning: NewBlueprint_2 'Stana_white_right' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:436][845]MapCheck: Warning: NewBlueprint_2 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:436][845]MapCheck: Warning: NewBlueprint_2 'table_white_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:437][845]MapCheck: Warning: Dark_window_Sprite7 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:437][845]MapCheck: Warning: Dark_window_Sprite8 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:437][845]MapCheck: Warning: Dark_window_Sprite9 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:437][845]MapCheck: Warning: Dark_window_Sprite10 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:437][845]MapCheck: Warning: Dark_window_Sprite15 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:437][845]MapCheck: Warning: Dark_window_Sprite16 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:437][845]MapCheck: Warning: window_Sprite183 'window_Sprite6' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:437][845]MapCheck: Warning: derevo_na_fone3_Sprite12 'derevo_na_fone3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:437][845]MapCheck: Warning: derevo_na_fone3_Sprite13 'derevo_na_fone3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:437][845]MapCheck: Warning: derevo_na_fone3_Sprite14 'derevo_na_fone3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:437][845]MapCheck: Warning: derevo_na_fone3_Sprite15 'derevo_na_fone3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:437][845]MapCheck: Warning: derevo_na_fone3_Sprite16 'derevo_na_fone3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:438][845]MapCheck: Warning: shadow_Sprite_353 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:438][845]MapCheck: Warning: shadow_Sprite_353 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:438][845]MapCheck: Warning: shadow_Sprite2 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:438][845]MapCheck: Warning: shadow_Sprite2 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:438][845]MapCheck: Warning: shadow_Sprite3 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:438][845]MapCheck: Warning: shadow_Sprite3 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:438][845]MapCheck: Warning: shadow_Sprite4 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:438][845]MapCheck: Warning: shadow_Sprite4 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:438][845]MapCheck: Warning: shadow_Sprite5 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:438][845]MapCheck: Warning: shadow_Sprite5 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:438][845]MapCheck: Warning: shadow_Sprite6 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:438][845]MapCheck: Warning: shadow_Sprite6 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:438][845]MapCheck: Warning: shadow_Sprite7 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:438][845]MapCheck: Warning: shadow_Sprite7 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:438][845]MapCheck: Warning: shadow_Sprite8 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:438][845]MapCheck: Warning: shadow_Sprite8 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:438][845]MapCheck: Warning: shadow_Sprite9 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:438][845]MapCheck: Warning: shadow_Sprite9 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:438][845]MapCheck: Warning: shadow_Sprite10 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:439][845]MapCheck: Warning: shadow_Sprite10 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:439][845]MapCheck: Warning: shadow_Sprite11 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:439][845]MapCheck: Warning: shadow_Sprite11 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:439][845]MapCheck: Warning: shadow_Sprite12 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:439][845]MapCheck: Warning: shadow_Sprite12 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:439][845]MapCheck: Warning: shadow_Sprite13 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:439][845]MapCheck: Warning: shadow_Sprite13 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:439][845]MapCheck: Warning: shadow_Sprite14 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:439][845]MapCheck: Warning: shadow_Sprite14 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:439][845]MapCheck: Warning: shadow_Sprite15 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:439][845]MapCheck: Warning: shadow_Sprite15 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:439][845]MapCheck: Warning: shadow_Sprite16 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:439][845]MapCheck: Warning: shadow_Sprite16 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:439][845]MapCheck: Warning: shadow_Sprite17 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:439][845]MapCheck: Warning: shadow_Sprite17 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:439][845]MapCheck: Warning: shadow_Sprite18 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:439][845]MapCheck: Warning: shadow_Sprite18 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:439][845]MapCheck: Warning: shadow_Sprite19 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:439][845]MapCheck: Warning: shadow_Sprite19 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite20 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite20 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite21 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite21 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite22 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite22 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite23 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite23 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite24 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite24 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite25 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite25 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite26 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite26 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite27 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite27 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite28 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite28 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite29 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite29 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite30 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite30 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite31 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite31 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite32 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite32 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite33 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite33 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite34 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite34 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite35 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite35 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite36 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite36 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:440][845]MapCheck: Warning: shadow_Sprite37 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:441][845]MapCheck: Warning: shadow_Sprite37 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:441][845]MapCheck: Warning: shadow_Sprite38 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:441][845]MapCheck: Warning: shadow_Sprite38 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:441][845]MapCheck: Warning: shadow_Sprite39 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:441][845]MapCheck: Warning: shadow_Sprite39 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:441][845]MapCheck: Warning: shadow_Sprite40 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:441][845]MapCheck: Warning: shadow_Sprite40 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:441][845]MapCheck: Warning: shadow_Sprite41 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:441][845]MapCheck: Warning: shadow_Sprite41 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:441][845]MapCheck: Warning: asfalt_s_kamushkami2_Sprite47 'asfalt_s_kamushkami2_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:442][845]MapCheck: Warning: asfalt_s_kamushkami2_Sprite49 'asfalt_s_kamushkami2_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:442][845]MapCheck: Warning: lesa3_44 'lesa3' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:442][845]MapCheck: Warning: lesa6 'lesa3' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:442][845]MapCheck: Warning: lesa8 'lesa3' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:442][845]MapCheck: Warning: lesa10 'lesa3' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:442][845]MapCheck: Warning: NewBlueprint4 'table_white_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:442][845]MapCheck: Warning: NewBlueprint4 'Frame_os_window_Sprote' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:442][845]MapCheck: Warning: NewBlueprint4 'Stana_white_left' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:442][845]MapCheck: Warning: NewBlueprint4 'Stana_white_right' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:443][845]MapCheck: Warning: NewBlueprint4 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:443][845]MapCheck: Warning: NewBlueprint4 'table_white_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:443][845]MapCheck: Warning: NewBlueprint5 'table_white_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:443][845]MapCheck: Warning: NewBlueprint5 'Frame_os_window_Sprote' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:443][845]MapCheck: Warning: NewBlueprint5 'Stana_white_left' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:443][845]MapCheck: Warning: NewBlueprint5 'Stana_white_right' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:443][845]MapCheck: Warning: NewBlueprint5 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:443][845]MapCheck: Warning: NewBlueprint5 'table_white_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:443][845]MapCheck: Warning: Dark_window_Sprite11 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:443][845]MapCheck: Warning: Dark_window_Sprite12 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:443][845]MapCheck: Warning: NewBlueprint6 'table_white_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:443][845]MapCheck: Warning: NewBlueprint6 'Frame_os_window_Sprote' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:443][845]MapCheck: Warning: NewBlueprint6 'Stana_white_left' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:443][845]MapCheck: Warning: NewBlueprint6 'Stana_white_right' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:444][845]MapCheck: Warning: NewBlueprint6 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:444][845]MapCheck: Warning: NewBlueprint6 'table_white_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:444][845]MapCheck: Warning: asfalt_s_kamushkami2_Sprite53 'asfalt_s_kamushkami2_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:444][845]MapCheck: Warning: lesa13 'lesa3' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:444][845]MapCheck: Warning: lesa14 'lesa3' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:445][845]MapCheck: Warning: lesa17 'lesa3' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:445][845]MapCheck: Warning: lesa18 'lesa3' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:445][845]MapCheck: Warning: lesa19 'lesa3' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:445][845]MapCheck: Warning: lesa20 'lesa3' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:445][845]MapCheck: Warning: lesa21 'lesa3' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:445][845]MapCheck: Warning: lesa22 'lesa3' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:445][845]MapCheck: Warning: Dark_window_Sprite17 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:445][845]MapCheck: Warning: Dark_window_Sprite18 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:445][845]MapCheck: Warning: Dark_window_Sprite19 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:445][845]MapCheck: Warning: Dark_window_Sprite20 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:446][845]MapCheck: Warning: Dark_window_Sprite21 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:446][845]MapCheck: Warning: Dark_window_Sprite22 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:446][845]MapCheck: Warning: Dark_window_Sprite23 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:446][845]MapCheck: Warning: Dark_window_Sprite24 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:446][845]MapCheck: Warning: Dark_window_Sprite27 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:446][845]MapCheck: Warning: Dark_window_Sprite28 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:446][845]MapCheck: Warning: Dark_window_Sprite29 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:446][845]MapCheck: Warning: Dark_window_Sprite30 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:447][845]MapCheck: Warning: Dark_window_Sprite33 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:447][845]MapCheck: Warning: Dark_window_Sprite34 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:447][845]MapCheck: Warning: Dark_window_Sprite35 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:447][845]MapCheck: Warning: Dark_window_Sprite36 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:447][845]MapCheck: Warning: Dark_window_Sprite37 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:447][845]MapCheck: Warning: Dark_window_Sprite38 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:447][845]MapCheck: Warning: Dark_window_Sprite39 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:447][845]MapCheck: Warning: Dark_window_Sprite40 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:447][845]MapCheck: Warning: Dark_window_Sprite41 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:448][845]MapCheck: Warning: Dark_window_Sprite42 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:448][845]MapCheck: Warning: Dark_window_Sprite43 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:448][845]MapCheck: Warning: Dark_window_Sprite44 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:448][845]MapCheck: Warning: Dark_window_Sprite45 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:448][845]MapCheck: Warning: Dark_window_Sprite46 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:448][845]MapCheck: Warning: Dark_window_Sprite47 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:448][845]MapCheck: Warning: Dark_window_Sprite48 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:448][845]MapCheck: Warning: Dark_window_Sprite49 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:448][845]MapCheck: Warning: Dark_window_Sprite50 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:448][845]MapCheck: Warning: Dark_window_Sprite51 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:448][845]MapCheck: Warning: Dark_window_Sprite52 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:448][845]MapCheck: Warning: Dark_window_Sprite53 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:448][845]MapCheck: Warning: Dark_window_Sprite54 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:448][845]MapCheck: Warning: Dark_window_Sprite55 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:449][845]MapCheck: Warning: Dark_window_Sprite56 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:449][845]MapCheck: Warning: Dark_window_Sprite57 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:449][845]MapCheck: Warning: Dark_window_Sprite58 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:449][845]MapCheck: Warning: Dark_window_Sprite59 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:449][845]MapCheck: Warning: Dark_window_Sprite60 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:449][845]MapCheck: Warning: Dark_window_Sprite61 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:449][845]MapCheck: Warning: Dark_window_Sprite62 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:449][845]MapCheck: Warning: Dark_window_Sprite63 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:449][845]MapCheck: Warning: Dark_window_Sprite64 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:449][845]MapCheck: Warning: Dark_window_Sprite65 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:449][845]MapCheck: Warning: Dark_window_Sprite66 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:449][845]MapCheck: Warning: Dark_window_Sprite67 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:449][845]MapCheck: Warning: Dark_window_Sprite68 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:449][845]MapCheck: Warning: Dark_window_Sprite69 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:449][845]MapCheck: Warning: Dark_window_Sprite70 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:450][845]MapCheck: Warning: Dark_window_Sprite71 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:450][845]MapCheck: Warning: Dark_window_Sprite72 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:450][845]MapCheck: Warning: Dark_window_Sprite73 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:450][845]MapCheck: Warning: derevo_na_fone3_Sprite18 'derevo_na_fone3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:450][845]MapCheck: Warning: derevo_na_fone3_Sprite19 'derevo_na_fone3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:450][845]MapCheck: Warning: derevo_na_fone3_Sprite20 'derevo_na_fone3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:450][845]MapCheck: Warning: derevo_na_fone3_Sprite21 'derevo_na_fone3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:450][845]MapCheck: Warning: derevo_na_fone3_Sprite22 'derevo_na_fone3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:451][845]MapCheck: Warning: Dark_window_Sprite74 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:451][845]MapCheck: Warning: Dark_window_Sprite75 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:451][845]MapCheck: Warning: Dark_window_Sprite76 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:451][845]MapCheck: Warning: Dark_window_Sprite77 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:451][845]MapCheck: Warning: Dark_window_Sprite78 'Dark_window_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:453][845]MapCheck: Warning: derevo_na_fone3_Sprite24 'derevo_na_fone3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:453][845]MapCheck: Warning: asfalt_s_kamushkami2_Sprite63 'asfalt_s_kamushkami2_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:453][845]MapCheck: Warning: asfalt_s_kamushkami2_Sprite10 'asfalt_s_kamushkami2_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:453][845]MapCheck: Warning: asfalt_s_kamushkami2_Sprite64 'asfalt_s_kamushkami2_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:453][845]MapCheck: Warning: swing_balance_Sprite2 'swing_balance_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:453][845]MapCheck: Warning: gorka_Sprite_28 'gorka_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:454][845]MapCheck: Warning: window_Sprite12_22 'window_Sprite12' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:454][845]MapCheck: Warning: window_Sprite15_25 'window_Sprite15' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:454][845]MapCheck: Warning: shadow_Sprite42 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:454][845]MapCheck: Warning: shadow_Sprite42 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:454][845]MapCheck: Warning: shadow_Sprite43 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:454][845]MapCheck: Warning: shadow_Sprite43 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:455][845]MapCheck: Warning: shadow_Sprite44 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:455][845]MapCheck: Warning: shadow_Sprite44 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:455][845]MapCheck: Warning: shadow_Sprite45 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:455][845]MapCheck: Warning: shadow_Sprite45 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:455][845]MapCheck: Warning: shadow_Sprite46 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:455][845]MapCheck: Warning: shadow_Sprite46 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:455][845]MapCheck: Warning: shadow_Sprite47 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:456][845]MapCheck: Warning: shadow_Sprite47 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:456][845]MapCheck: Warning: shadow_Sprite48 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:456][845]MapCheck: Warning: shadow_Sprite48 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:456][845]MapCheck: Warning: shadow_Sprite49 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:456][845]MapCheck: Warning: shadow_Sprite49 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:456][845]MapCheck: Warning: shadow_Sprite50 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:456][845]MapCheck: Warning: shadow_Sprite50 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:456][845]MapCheck: Warning: shadow_Sprite51 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:457][845]MapCheck: Warning: shadow_Sprite51 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:457][845]MapCheck: Warning: shadow_Sprite52 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:457][845]MapCheck: Warning: shadow_Sprite52 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:457][845]MapCheck: Warning: shadow_Sprite53 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:457][845]MapCheck: Warning: shadow_Sprite53 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:457][845]MapCheck: Warning: shadow_Sprite54 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:457][845]MapCheck: Warning: shadow_Sprite54 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:458][845]MapCheck: Warning: shadow_Sprite55 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:458][845]MapCheck: Warning: shadow_Sprite55 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:458][845]MapCheck: Warning: shadow_Sprite56 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. NewMaterial 
+[2020.07.14-13.18.25:458][845]MapCheck: Warning: shadow_Sprite56 'shadow_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:458][845]MapCheck: Warning: reklama3_Sprite4_47 'reklama3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:458][845]MapCheck: Warning: window_Sprite460 'window_Sprite1' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:458][845]MapCheck: Warning: window_Sprite461 'window_Sprite1' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:459][845]MapCheck: Warning: window_Sprite462 'window_Sprite1' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:459][845]MapCheck: Warning: window_Sprite463 'window_Sprite1' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:459][845]MapCheck: Warning: window_Sprite464 'window_Sprite1' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:459][845]MapCheck: Warning: window_Sprite465 'window_Sprite1' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:459][845]MapCheck: Warning: window_Sprite467 'window_Sprite1' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:459][845]MapCheck: Warning: window_Sprite468 'window_Sprite1' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:459][845]MapCheck: Warning: window_Sprite138 'window_Sprite5' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:459][845]MapCheck: Warning: MovableObj_base_yashik_2 '3_yashika_s_apelsinami_i_red_outlines_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:459][845]MapCheck: Warning: MovableObj_base_yashik1_2 '3_yashika_s_nichem_i_red_outlines_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:459][845]MapCheck: Warning: MovableObj_base_yashik2 '3_yashika_s_nichem_i_red_outlines_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2020.07.14-13.18.25:459][845]MapCheck: Map check complete: 0 Error(s), 254 Warning(s), took 25.359ms to complete.
+[2020.07.14-13.18.27:213][914]LogSlate: Window 'Message Log' being destroyed
+[2020.07.14-13.18.27:218][914]LogSlate: Window 'Message Log' being destroyed
+[2020.07.14-13.18.58:254][ 14]Cmd: DELETE
+[2020.07.14-13.18.58:254][ 14]Cmd: ACTOR DELETE
+[2020.07.14-13.18.58:718][ 14]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2020.07.14-13.18.58:791][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.07.14-13.18.58:821][ 14]LogEditorActor: Deleted 1 Actors (0.218 secs)
+[2020.07.14-13.19.02:670][400]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (shadow_Sprite7)
+[2020.07.14-13.19.12:220][112]LogSlate: Window 'Message Log' being destroyed
+[2020.07.14-13.19.12:224][112]LogSlate: Window 'Message Log' being destroyed
+[2020.07.14-13.19.22:437][174]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{077eefc0-a0f4-44bb-a887-8374d2ef2d03}.
+[2020.07.14-13.19.22:519][174]LogTemp: Resetting audio stream to device id 
+[2020.07.14-13.19.22:619][174]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.14-13.19.22:619][174]LogAudioMixer: Display: Name: Headphones (High Definition Audio Device)
+[2020.07.14-13.19.22:619][174]LogAudioMixer: Display: Is Default: Yes
+[2020.07.14-13.19.22:619][174]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.14-13.19.22:619][174]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.14-13.19.22:619][174]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.14-13.19.22:619][174]LogAudioMixer: Display: Channel Order:
+[2020.07.14-13.19.22:619][174]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.14-13.19.22:619][174]LogAudioMixer: Display: 1: FrontRight
+[2020.07.14-13.19.22:860][174]LogAudioMixer: Error: Audio Platform Device Error: 0x0: UNKNOWN (File D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/AudioMixerXAudio2/Private/AudioMixerPlatformXAudio2.cpp, Line 867)
+[2020.07.14-13.19.23:527][240]LogTemp: Resetting audio stream to device id 
+[2020.07.14-13.19.23:603][240]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.14-13.19.23:603][240]LogAudioMixer: Display: Name: Динамики (High Definition Audio Device)
+[2020.07.14-13.19.23:603][240]LogAudioMixer: Display: Is Default: Yes
+[2020.07.14-13.19.23:603][240]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.14-13.19.23:603][240]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.14-13.19.23:603][240]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.14-13.19.23:603][240]LogAudioMixer: Display: Channel Order:
+[2020.07.14-13.19.23:603][240]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.14-13.19.23:603][240]LogAudioMixer: Display: 1: FrontRight
+[2020.07.14-13.19.59:495][703]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.14-13.19.59:516][703]PIE: New page: SIE session: Level4 (Jul 14, 2020, 7:19:59 PM)
+[2020.07.14-13.19.59:595][703]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.07.14-13.19.59:609][703]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.07.14-13.19.59:633][703]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level4
+[2020.07.14-13.19.59:772][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.138677s)
+[2020.07.14-13.19.59:789][703]LogAIModule: Creating AISystem for world Level4
+[2020.07.14-13.19.59:809][703]LogPlayLevel: PIE: World Init took: (0.036692s)
+[2020.07.14-13.19.59:810][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level4.Level4 to /Game/Levels/UEDPIE_0_Level4.Level4 (0.176831s)
+[2020.07.14-13.19.59:835][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.07.14-13.19.59:861][703]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.14-13.19.59:861][703]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.14-13.19.59:861][703]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.14-13.19.59:861][703]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.14-13.19.59:861][703]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.14-13.19.59:861][703]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.14-13.19.59:861][703]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.14-13.19.59:861][703]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.14-13.19.59:862][703]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.14-13.19.59:862][703]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.14-13.19.59:902][703]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.14-13.19.59:902][703]LogAudioMixer: Display: Name: Динамики (High Definition Audio Device)
+[2020.07.14-13.19.59:902][703]LogAudioMixer: Display: Is Default: Yes
+[2020.07.14-13.19.59:902][703]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.14-13.19.59:903][703]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.14-13.19.59:903][703]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.14-13.19.59:903][703]LogAudioMixer: Display: Channel Order:
+[2020.07.14-13.19.59:903][703]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.14-13.19.59:903][703]LogAudioMixer: Display: 1: FrontRight
+[2020.07.14-13.19.59:918][703]LogAudioMixer: Display: Using Audio Device Динамики (High Definition Audio Device)
+[2020.07.14-13.19.59:965][703]LogInit: FAudioDevice initialized.
+[2020.07.14-13.20.00:047][703]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.14-13.20.00:282][703]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.07.14-13.20.02:316][703]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.035 s
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: === Handled ensure: ===
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: 
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: Ensure condition failed: Cast<APawn>(NewUpdatedComponent->GetOwner()) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Components/PawnMovementComponent.cpp] [Line: 18]
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: FloatingPawnMovement must update a component owned by a Pawn
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: Stack: 
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: [Callstack] 0x00007ffbfcf1041b UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: [Callstack] 0x00007ffbfbb250ca UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: [Callstack] 0x00007ffbfbb13bbb UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: [Callstack] 0x00007ffbfba817e0 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: [Callstack] 0x00007ffbfbaaedee UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: [Callstack] 0x00007ffbfb6cb7a0 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: [Callstack] 0x00007ffbfbf9238b UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: [Callstack] 0x00007ffbfc9a5590 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: [Callstack] 0x00007ffbfc97a440 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: [Callstack] 0x00007ffbfbddf03e UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: [Callstack] 0x00007ffc0269245c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: [Callstack] 0x00007ffc026b2806 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: [Callstack] 0x00007ffc026cd285 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: [Callstack] 0x00007ffc0219a5f5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: [Callstack] 0x00007ffc029fe476 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: [Callstack] 0x00007ff7a4177f62 UE4Editor.exe!UnknownFunction []
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: [Callstack] 0x00007ff7a418c3ec UE4Editor.exe!UnknownFunction []
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: [Callstack] 0x00007ff7a418c4ca UE4Editor.exe!UnknownFunction []
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: [Callstack] 0x00007ff7a419ceae UE4Editor.exe!UnknownFunction []
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: [Callstack] 0x00007ff7a419fcbe UE4Editor.exe!UnknownFunction []
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: [Callstack] 0x00007ffc5a077bd4 KERNEL32.DLL!UnknownFunction []
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: [Callstack] 0x00007ffc5a44ce51 ntdll.dll!UnknownFunction []
+[2020.07.14-13.20.02:317][703]LogOutputDevice: Error: 
+[2020.07.14-13.20.02:380][703]LogStats:                SubmitErrorReport -  0.000 s
